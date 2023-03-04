@@ -6,5 +6,7 @@ public class GitTest {
         System.out.println("-------------------------------");
         System.out.println("master commit");
         System.out.println("git_test remote");
+        System.out.println("-------------------------------");
+        System.out.println("train pull");
     }
 }
